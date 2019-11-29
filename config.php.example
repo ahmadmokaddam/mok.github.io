@@ -1,7 +1,7 @@
 <?php
 return [
   'repo' => [
-    'name' => 'A Cydia Repo',
+    'name' => 'Ahmad Mokadam',
     'description' => 'A Cydia repository.',
     'url' => 'http://localhost/cydia/',
     'codename' => 'acydiarepo'
